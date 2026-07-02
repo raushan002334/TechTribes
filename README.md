@@ -1,6 +1,6 @@
-# DevTinder
+#TechTribes
 
-Full-stack DevTinder project with separate backend and frontend apps in one repository.
+Full-stack TechTribes project with separate backend and frontend apps in one repository.
 
 ## Tech Stack
 
