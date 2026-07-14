@@ -1,11 +1,21 @@
-#TechTribes
+TECHTRIBES
 
-Full-stack TechTribes project with separate backend and frontend apps in one repository.
+TechTribes is a developer matchmaking platform that helps engineers find and connect with collaborators based on tech stack, project goals, and GitHub activity. Unlike traditional job boards or LinkedIn, TechTribes gamifies the connection process through a simple like/unlike mechanism, making networking fun and low-pressure.
 
-## Tech Stack
+Features
+User authentication and profile management
+Skill tagging and search functionality
+Project and job listing
+Matching algorithm to connect users with relevant opportunities
+Real-time chat functionality
+Responsive design for mobile and desktop users
 
-- Backend: Node.js, Express, MongoDB
-- Frontend: React, Vite, Tailwind CSS, Redux Toolkit
+
+Technologies Used
+Frontend: React, Redux, Tailwind CSS
+Backend: Node.js, Express, MongoDB
+Authentication: JWT, bcrypt
+Real-time communication: Socket.io
 
 ## Project Structure
 
